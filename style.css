@@ -21,3 +21,16 @@ body{
             2 li como azul claro
             3 li como amarelo
         */
+        button{
+            background-color: blue;
+            padding: 10px 20px; /* ESPAÇO INTERNO */
+            margin: 10px; /* ESPAÇO EXTERNO */
+            border-radius: 10px; /* BORDA */
+        }
+
+        span{
+            front-size: 20px;
+            color: aliceblue
+        }
+        
+        
